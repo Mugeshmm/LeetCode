@@ -24,4 +24,8 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Mugeshmm/LeetCode/tree/master/0189-rotate-array) |
+## String
+|  |
+| ------- |
+| [0006-zigzag-conversion](https://github.com/Mugeshmm/LeetCode/tree/master/0006-zigzag-conversion) |
 <!---LeetCode Topics End-->
