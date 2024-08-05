@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Mugeshmm/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Mugeshmm/LeetCode/tree/master/0066-plus-one) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Mugeshmm/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0189-rotate-array](https://github.com/Mugeshmm/LeetCode/tree/master/0189-rotate-array) |
@@ -30,4 +31,12 @@
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Mugeshmm/LeetCode/tree/master/0006-zigzag-conversion) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Mugeshmm/LeetCode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Mugeshmm/LeetCode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
