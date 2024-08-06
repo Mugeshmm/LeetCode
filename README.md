@@ -26,11 +26,13 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Mugeshmm/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Mugeshmm/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Mugeshmm/LeetCode/tree/master/0006-zigzag-conversion) |
+| [0151-reverse-words-in-a-string](https://github.com/Mugeshmm/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 ## Matrix
 |  |
 | ------- |
